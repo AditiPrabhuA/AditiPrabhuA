@@ -1,4 +1,11 @@
 <h1 align="center">✨ Aditi Prabhu A</h1>
+<!-- <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Cloud+Computing;Automation;Big+Data;)](https://git.io/typing-svg)
+
+</div> -->
+
+
 <p>I am someone with a keen interest in machine learning, cloud computing and big data technologies. I'm interested in and actively learning CUDA programming. Currently, I'm working on: GPT Empowered Automonous Edge AI for Anomaly Detection and Resolution in Distributed Systems. </p>
 
 <h3 align="left">Languages and Tools:</h3>
