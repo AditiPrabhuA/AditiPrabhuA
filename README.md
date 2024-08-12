@@ -29,14 +29,14 @@
 
 
 ## Projects:
-1. Lucid Care - _in progress_
-2. Sentinel Edge - _in progress_
-3. [AniMerch](https://github.com/revanthsreeram/018_036_039_070_Migrating-a-monolithic-e-commerce-application-to-a-microservices-architecture)
-4. [EduProjectHub](https://github.com/adi142003/Capstone_management_system_MVC)
-5. [YADFS](https://github.com/Cloud-Computing-Big-Data/RR-Team-1-Yet-Another-Distributed-File-System-YADFS-)
-6. [Attendence Management System](https://github.com/Anushkaghei/Student-Attendance-Management)
-7. TCP Chat
-8. [Capstone Management System](https://github.com/adi142003/capstone-project-management-system)
-9. [Driver Alertness System](https://github.com/Anushkaghei/driver-alertness)
-10. [JunoCam](https://github.com/kanuar/NASA_HACK)
+- Lucid Care - _in progress_
+- Sentinel Edge - _in progress_
+- [AniMerch](https://github.com/revanthsreeram/018_036_039_070_Migrating-a-monolithic-e-commerce-application-to-a-microservices-architecture)
+- [EduProjectHub](https://github.com/adi142003/Capstone_management_system_MVC)
+- [YADFS](https://github.com/Cloud-Computing-Big-Data/RR-Team-1-Yet-Another-Distributed-File-System-YADFS-)
+- [Attendence Management System](https://github.com/Anushkaghei/Student-Attendance-Management)
+- TCP Chat
+- [Capstone Management System](https://github.com/adi142003/capstone-project-management-system)
+- [Driver Alertness System](https://github.com/Anushkaghei/driver-alertness)
+- [JunoCam](https://github.com/kanuar/NASA_HACK)
 
