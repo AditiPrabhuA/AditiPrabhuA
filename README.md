@@ -27,3 +27,16 @@
 <a><img src="https://camo.githubusercontent.com/0835be512e9fa96d4338a859f6615c2ef65678770c381a3327cb7213afe7c158/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f622f62392f4e76696469615f435544415f4c6f676f2e6a7067" alt="cuda" width="50" height="50"/></a>
 </p>
 
+
+## Projects:
+1. Lucid Care - _in progress_
+2. Sentinel Edge - _in progress_
+3. [AniMerch](https://github.com/revanthsreeram/018_036_039_070_Migrating-a-monolithic-e-commerce-application-to-a-microservices-architecture)
+4. [EduProjectHub](https://github.com/adi142003/Capstone_management_system_MVC)
+5. [YADFS](https://github.com/Cloud-Computing-Big-Data/RR-Team-1-Yet-Another-Distributed-File-System-YADFS-)
+6. [Attendence Management System](https://github.com/Anushkaghei/Student-Attendance-Management)
+7. TCP Chat
+8. [Capstone Management System](https://github.com/adi142003/capstone-project-management-system)
+9. [Driver Alertness System](https://github.com/Anushkaghei/driver-alertness)
+10. [JunoCam](https://github.com/kanuar/NASA_HACK)
+
