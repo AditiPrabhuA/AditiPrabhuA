@@ -29,7 +29,7 @@
 
 
 ## Projects:
-- Lucid Care - _in progress_
+- [Lucid Care](https://github.com/revanthsreeram/XAI-Sepsis-Detection-and-Personalised-Treatment-Recommendation-Capstone) - _in progress_
 - Sentinel Edge - _in progress_
 - [AniMerch](https://github.com/revanthsreeram/018_036_039_070_Migrating-a-monolithic-e-commerce-application-to-a-microservices-architecture)
 - [EduProjectHub](https://github.com/adi142003/Capstone_management_system_MVC)
