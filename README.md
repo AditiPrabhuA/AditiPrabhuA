@@ -6,7 +6,7 @@
 </div> -->
 
 
-<p>I am someone with a keen interest in machine learning, cloud computing and big data technologies. I'm interested in and actively learning about distributed computing. Currently, I'm working on: GPT Empowered Automonous Edge AI for Anomaly Detection and Resolution in Distributed Systems. </p>
+<p>I am someone with a keen interest in machine learning, cloud computing and big data technologies. Currently, I'm working on: GPT Empowered Automonous Edge AI for Anomaly Detection and Resolution in Distributed Systems. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
