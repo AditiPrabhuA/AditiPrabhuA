@@ -28,7 +28,7 @@
 </p>
 
 
-## Projects:
+## Project Links:
 - [Lucid Care](https://github.com/revanthsreeram/XAI-Sepsis-Detection-and-Personalised-Treatment-Recommendation-Capstone) - _in progress_
 - [Sentinel Edge](https://github.com/AditiPrabhuA/GPT-Empowered-Automonous-Edge-AI-for-Anomaly-Detection-and-Resolution-in-Distributed-Systems) - _in progress_
 - [AI-Powered Review Scraper](https://github.com/AditiPrabhuA/gomarble)
