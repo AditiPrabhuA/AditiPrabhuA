@@ -32,7 +32,7 @@
 - [Lucid Care](https://github.com/revanthsreeram/XAI-Sepsis-Detection-and-Personalised-Treatment-Recommendation-Capstone) - _in progress_
 - [Sentinel Edge](https://github.com/AditiPrabhuA/GPT-Empowered-Automonous-Edge-AI-for-Anomaly-Detection-and-Resolution-in-Distributed-Systems) - _in progress_
 - [AI-Powered Review Scraper](https://github.com/AditiPrabhuA/gomarble)
-- [AniMerch](https://github.com/revanthsreeram/018_036_039_070_Migrating-a-monolithic-e-commerce-application-to-a-microservices-architecture)
+- [AniMerch](https://github.com/AditiPrabhuA/AniMerch)
 - [EduProjectHub](https://github.com/adi142003/Capstone_management_system_MVC)
 - [YADFS](https://github.com/Cloud-Computing-Big-Data/RR-Team-1-Yet-Another-Distributed-File-System-YADFS-)
 - [Attendence Management System](https://github.com/Anushkaghei/Student-Attendance-Management)
